@@ -1,0 +1,4 @@
+{
+  "version": "5.2",
+  "notes": "✓ Public storefront at /shop/ — live menu, online orders\n✓ Online orders land in the POS Online tab and the dashboard Orders page\n✓ Dashboard branded from the deployer form (name, logo, theme, location)\n✓ One business id seeded at deploy time, shared by POS, dashboard and shop\n✓ Zero setup — business info, logo, theme and goal are pre-applied\n✓ No business-type chooser or wizard for the client\n✓ Theme colour picked in the deployer\n✓ Starter products loaded for the chosen business type\n✓ Fixed: product ID clash between POS and Dashboard\n✓ Fixed: deleted expenses no longer return on sync\n✓ Variant stock tracked per size/colour"
+}
